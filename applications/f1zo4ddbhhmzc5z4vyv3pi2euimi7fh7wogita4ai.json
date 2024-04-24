@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "ID": "f1zo4ddbhhmzc5z4vyv3pi2euimi7fh7wogita4ai",
+  "Issue Number": "6",
+  "Client": {
+    "Name": "ENCODE Data Coordinating Center",
+    "Region": "United States",
+    "Industry": "Life Science / Healthcare",
+    "Website": "https://www.encodeproject.org/",
+    "Social Media": "https://www.encodeproject.org/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Project Id": "5",
+    "Brief history of your project and organization": "I'm lucas - individual dp. The project I'd like to join in filecoin is storing the data I've downloaded before. The data is from the Encode. The ENCODE Consortium not only produces high-quality data, but also analyzes the data in an integrative fashion. The ENCODE Encyclopedia organizes the most salient analysis products into annotations and provides tools to search and visualize them. The goal of ENCODE is to build a comprehensive parts list of functional elements in the human genome, including elements that act at the protein and RNA levels, and regulatory elements that control cells and circumstances in which a gene is active.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Released and archived ENCODE data. Regulatory elements are typically investigated through DNA hypersensitivity assays, assays of DNA methylation, and immunoprecipitation (IP) of proteins that interact with DNA and RNA, i.e., modified histones, transcription factors, chromatin regulators, and RNA-binding proteins, followed by sequencing.",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://registry.opendata.aws/encode-project/\r\n\r\nhttps://www.encodeproject.org",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Sporadic",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, South America, Europe, Australia (continent)",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02953066\r\nf02956073\r\nf02837684\r\nf03028412\r\nf02809368\r\nf02812314\r\nf02812307\r\nf02814775\r\nf02814770\r\nf02814767\r\nf02815438\r\nf02815448\r\nf02815451\r\nf02815456",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "10PiB",
+    "Single Size Dataset": "1.1PiB",
+    "Replicas": 5,
+    "Weekly Allocation": "1000TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-04-24 02:01:03.695453141 UTC",
+    "Validated By": "pandacrypto",
+    "Active": true,
+    "Updated At": "2024-04-24 02:02:57.010323122 UTC",
+    "Active Request ID": "447241bf-c67e-4ac9-85d7-ceb506cac90b",
+    "On Chain Address": "f1zo4ddbhhmzc5z4vyv3pi2euimi7fh7wogita4ai",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "447241bf-c67e-4ac9-85d7-ceb506cac90b",
+      "Request Type": "First",
+      "Created At": "2024-04-24 02:01:03.695458354 UTC",
+      "Updated At": "2024-04-24 02:01:03.695459063 UTC",
+      "Active": false,
+      "Allocation Amount": "512TiB",
+      "Signers": [
+        {
+          "Github Username": "pandacrypto",
+          "Signing Address": "f1xdpvmkm75sinulbz5j73wseupq4equmchxonvjy",
+          "Created At": "2024-04-24 02:02:53.398000000 UTC",
+          "Message CID": "bafy2bzacedpb7q7rvsy7lrv2rwdfeiocjrw7v2kk3ojimwwggdec7peclw67g"
+        }
+      ]
+    }
+  ]
+}
