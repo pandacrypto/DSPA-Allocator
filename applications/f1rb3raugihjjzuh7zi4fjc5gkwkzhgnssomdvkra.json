@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "ID": "f1rb3raugihjjzuh7zi4fjc5gkwkzhgnssomdvkra",
+  "Issue Number": "8",
+  "Client": {
+    "Name": "jcphysics",
+    "Region": "Singapore",
+    "Industry": "Education & Training",
+    "Website": "http://jcphysics.com/",
+    "Social Media": "http://jcphysics.com/",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Project Id": "7",
+    "Brief history of your project and organization": "Jcphysics focuses on educational consulting and A level tuition and was founded by Raymond Cai.Since 2009, Mr Cai has helped numerous batches of grateful JC physics students improve their H2 physics grades within a short time. This is achieved by helping students gain an in-depth understanding of the A level physics syllabus as well as recognition of the common misconceptions and difficulties faced in the examinations.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Educational counseling and A-level tutorials, video courseware, etc.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://jcphysics.com/",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Sporadic",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Europe, Australia (continent)",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02953066 \r\nf02956073 \r\nf02837684 \r\nf03028412",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "12PiB",
+    "Single Size Dataset": "700TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "1000TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-04-25 09:07:39.625025794 UTC",
+    "Validated By": "pandacrypto",
+    "Active": true,
+    "Updated At": "2024-04-25 09:08:51.960903429 UTC",
+    "Active Request ID": "2405afa3-42ac-4807-a4fc-952032f2e01c",
+    "On Chain Address": "f1rb3raugihjjzuh7zi4fjc5gkwkzhgnssomdvkra",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "2405afa3-42ac-4807-a4fc-952032f2e01c",
+      "Request Type": "First",
+      "Created At": "2024-04-25 09:07:39.625030613 UTC",
+      "Updated At": "2024-04-25 09:07:39.625031217 UTC",
+      "Active": false,
+      "Allocation Amount": "512TiB",
+      "Signers": [
+        {
+          "Github Username": "pandacrypto",
+          "Signing Address": "f1xdpvmkm75sinulbz5j73wseupq4equmchxonvjy",
+          "Created At": "2024-04-25 09:08:48.825000000 UTC",
+          "Message CID": "bafy2bzacebeaez2z6w37jm2xorchzpdr4okoxh6p27liizptamkdsklnpfbcu"
+        }
+      ]
+    }
+  ]
+}
