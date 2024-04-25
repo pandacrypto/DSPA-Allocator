@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "ID": "f1iywqtikydpzpgwwvs6hs3mhnzdl4i5ewnavek3i",
+  "Issue Number": "11",
+  "Client": {
+    "Name": "The National Oceanic and Atmospheric Administration",
+    "Region": "United States",
+    "Industry": "Environment",
+    "Website": "https://www.noaa.gov/",
+    "Social Media": "https://www.noaa.gov/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Project Id": "12",
+    "Brief history of your project and organization": "DSPA-Asia is an eco-project established with the support of PL, with the main vision to help Asian storage providers transform their FIL+ business and continuously expand the effective data storage capacity of the Filecoin eco-system. The mission of DSPA-Asia is to help 30 Filecoin CC storage providers create 1EiB QAP for the Filecoin network within 6 months.\r\n\r\nDSPA-Asia is willing to contribute to the sustainable development of all mankind by storing data from NOAA as the data owner of public datasets, including weather, satellite, climate, etc.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "NOAA Global Ensemble Forecast System (GEFS)",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://github.com/awslabs/open-data-docs/tree/main/docs/noaa/noaa-gefs-pds",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, South America, Europe, Australia (continent)",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02105377\r\nf02289399\r\nf01172521\r\nf01843178\r\nf01877259\r\nf02129771\r\nf01882219\r\nf02192588\r\nf01879914\r\nf02131881\r\nf02121645\r\nf01946714\r\nf01819016\r\nf02216271\r\nf02058333\r\nf02368987\r\nf01046069\r\nf02093396\r\nf02259777\r\nf02234424\r\nf01315130\r\nf02240216\r\nf02048908\r\nf01289300\r\nf073448\r\nf02823697\r\nf02841588\r\nf02832654\r\nf01907556\r\nf01761579\r\nf02228866\r\nf02221113\r\nf02221112\r\nf02221111\r\nf02221110\r\nf02222222\r\nf02809408\r\nf01660008",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "30PiB",
+    "Single Size Dataset": "3PiB",
+    "Replicas": 10,
+    "Weekly Allocation": "2PiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-04-25 03:10:35.185808832 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1iywqtikydpzpgwwvs6hs3mhnzdl4i5ewnavek3i",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
