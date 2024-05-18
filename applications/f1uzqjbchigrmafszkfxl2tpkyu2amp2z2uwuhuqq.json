@@ -12,7 +12,6 @@
     "Role": "Data Preparer"
   },
   "Project": {
-    "Project Id": "14",
     "Brief history of your project and organization": "Personal data preparer with confidence in the future of filecoin--The Human Pangenome Reference Consortium (HPRC) is a project funded by the National Human Genome Research Institute to sequence and assemble genomes from individuals from diverse populations in order to better represent genomic landscape of diverse human populations.",
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "This dataset includes sequencing data, assemblies, and analyses for the offspring of ten parent-offspring trios.\r\n\r\nThe raw data is about 1.2P and will transfer to 2P in raw power per copy considering the padding.  I will distribute 10x copies to different SP in various geo.\r\n\r\nConsider storage plan compliance and apply for 5PiB for trial first.Work with 5 SPs first.",
@@ -36,12 +35,12 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ReadyToSign",
     "Validated At": "2024-05-08 03:27:52.331615080 UTC",
     "Validated By": "pandacrypto",
     "Active": true,
-    "Updated At": "2024-05-08 03:29:05.571044902 UTC",
-    "Active Request ID": "657f6965-b903-4776-94a2-2161e16a35fb",
+    "Updated At": "2024-05-18 23:00:03.917067829 UTC",
+    "Active Request ID": "f8937969-1396-4263-a4a4-e064f8de2b9c",
     "On Chain Address": "f1uzqjbchigrmafszkfxl2tpkyu2amp2z2uwuhuqq",
     "Multisig Address": "false",
     "edited": false
@@ -62,6 +61,15 @@
           "Message CID": "bafy2bzaceckqqpm6w7mvzfcivumq4jogezpexkc6w5oydomq6dlhhfajcqk3m"
         }
       ]
+    },
+    {
+      "ID": "f8937969-1396-4263-a4a4-e064f8de2b9c",
+      "Request Type": "Refill",
+      "Created At": "2024-05-18 23:00:03.917075053 UTC",
+      "Updated At": "2024-05-18 23:00:03.917076755 UTC",
+      "Active": true,
+      "Allocation Amount": "512TiB",
+      "Signers": []
     }
   ]
 }
