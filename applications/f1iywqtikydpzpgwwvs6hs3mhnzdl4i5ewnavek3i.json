@@ -12,7 +12,6 @@
     "Role": "Data Preparer"
   },
   "Project": {
-    "Project Id": "12",
     "Brief history of your project and organization": "DSPA-Asia is an eco-project established with the support of PL, with the main vision to help Asian storage providers transform their FIL+ business and continuously expand the effective data storage capacity of the Filecoin eco-system. The mission of DSPA-Asia is to help 30 Filecoin CC storage providers create 1EiB QAP for the Filecoin network within 6 months.\r\n\r\nDSPA-Asia is willing to contribute to the sustainable development of all mankind by storing data from NOAA as the data owner of public datasets, including weather, satellite, climate, etc.",
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "NOAA Global Ensemble Forecast System (GEFS)",
@@ -36,12 +35,12 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ReadyToSign",
     "Validated At": "2024-04-26 08:33:34.931943019 UTC",
     "Validated By": "pandacrypto",
     "Active": true,
-    "Updated At": "2024-04-26 08:35:32.481456506 UTC",
-    "Active Request ID": "7724e6b0-58cf-43d2-8200-c12bbf5c9134",
+    "Updated At": "2024-07-18 03:51:55.477947899 UTC",
+    "Active Request ID": "f7fc5623-aaac-4f7c-862e-dc643dc646d3",
     "On Chain Address": "f1iywqtikydpzpgwwvs6hs3mhnzdl4i5ewnavek3i",
     "Multisig Address": "false",
     "edited": false
@@ -62,6 +61,15 @@
           "Message CID": "bafy2bzaceaiin2yfbxtpy7lccixxc6btknc574l44le5lf65epvrbexr73j6u"
         }
       ]
+    },
+    {
+      "ID": "f7fc5623-aaac-4f7c-862e-dc643dc646d3",
+      "Request Type": "Refill",
+      "Created At": "2024-07-18 03:51:55.477955912 UTC",
+      "Updated At": "2024-07-18 03:51:55.477957424 UTC",
+      "Active": true,
+      "Allocation Amount": "1024TiB",
+      "Signers": []
     }
   ]
 }
