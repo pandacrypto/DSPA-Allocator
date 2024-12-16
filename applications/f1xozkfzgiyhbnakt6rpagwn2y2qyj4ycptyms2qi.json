@@ -35,11 +35,11 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2024-12-16 09:14:00.811430218 UTC",
+    "State": "Granted",
+    "Validated At": "2024-12-16 09:16:12.644658241 UTC",
     "Validated By": "pandacrypto",
     "Active": true,
-    "Updated At": "2024-12-16 09:14:00.811435211 UTC",
+    "Updated At": "2024-12-16 09:16:12.644654955 UTC",
     "Active Request ID": "d3551566-3810-4fa3-bbaa-a94a911eeddf",
     "On Chain Address": "f1xozkfzgiyhbnakt6rpagwn2y2qyj4ycptyms2qi",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2024-12-16 09:14:00.811437209 UTC",
       "Updated At": "2024-12-16 09:14:00.811438411 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "512TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "pandacrypto",
+          "Signing Address": "f1xdpvmkm75sinulbz5j73wseupq4equmchxonvjy",
+          "Created At": "2024-12-16 09:16:07.660000000 UTC",
+          "Message CID": "bafy2bzacedeehl56dmuure5w2tqtc7tsdeg2wkls5r7ywws7cglcrdkdt7pqy"
+        }
+      ]
     }
   ]
 }
