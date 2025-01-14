@@ -35,12 +35,12 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
-    "Validated At": "2025-01-07 08:19:13.430878467 UTC",
+    "State": "ReadyToSign",
+    "Validated At": "2025-01-14 03:04:39.097789313 UTC",
     "Validated By": "pandacrypto",
     "Active": true,
-    "Updated At": "2025-01-07 08:19:13.430875507 UTC",
-    "Active Request ID": "7dd021d3-d249-4642-8a1f-e680dcfb5cb9",
+    "Updated At": "2025-01-14 03:04:39.097793339 UTC",
+    "Active Request ID": "3ed4fea4-5b39-41d5-87c5-eed5e7826db5",
     "On Chain Address": "f1k3t36ed3gbsvi7z4h2b3yeqarmlxz4nafj5km5a",
     "Multisig Address": "false",
     "edited": false
@@ -77,6 +77,15 @@
           "Message CID": "bafy2bzaced4k6z2aeltq4t4exgrchyawoiuhwzxerl7fljechg77idaf2ipj4"
         }
       ]
+    },
+    {
+      "ID": "3ed4fea4-5b39-41d5-87c5-eed5e7826db5",
+      "Request Type": "Refill",
+      "Created At": "2025-01-14 03:04:39.097798523 UTC",
+      "Updated At": "2025-01-14 03:04:39.097799587 UTC",
+      "Active": true,
+      "Allocation Amount": "1PiB",
+      "Signers": []
     }
   ]
 }
