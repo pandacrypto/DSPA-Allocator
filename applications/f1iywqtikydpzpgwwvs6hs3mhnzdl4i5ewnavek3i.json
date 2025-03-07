@@ -35,12 +35,12 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
-    "Validated At": "2024-12-30 08:31:11.232417834 UTC",
+    "State": "ReadyToSign",
+    "Validated At": "2025-03-07 03:22:12.533170885 UTC",
     "Validated By": "pandacrypto",
     "Active": true,
-    "Updated At": "2024-12-30 08:31:11.232413647 UTC",
-    "Active Request ID": "3a6cc43b-ea1b-4587-98d0-b72f1a024cfb",
+    "Updated At": "2025-03-07 03:22:12.533175136 UTC",
+    "Active Request ID": "54ef18d0-f863-47d9-9d9f-8359a6d4945f",
     "On Chain Address": "f1iywqtikydpzpgwwvs6hs3mhnzdl4i5ewnavek3i",
     "Multisig Address": "false",
     "edited": false
@@ -125,6 +125,15 @@
           "Message CID": "bafy2bzacebmb4hpqlqaqwpdfmq7dirrbhqo5dbzkkgz7fcbke22af3yxkrthq"
         }
       ]
+    },
+    {
+      "ID": "54ef18d0-f863-47d9-9d9f-8359a6d4945f",
+      "Request Type": "Refill",
+      "Created At": "2025-03-07 03:22:12.533185790 UTC",
+      "Updated At": "2025-03-07 03:22:12.533186779 UTC",
+      "Active": true,
+      "Allocation Amount": "2PiB",
+      "Signers": []
     }
   ]
 }
