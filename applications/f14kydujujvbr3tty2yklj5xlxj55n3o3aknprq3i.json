@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f14kydujujvbr3tty2yklj5xlxj55n3o3aknprq3i",
+  "Issue Number": "55",
+  "Client": {
+    "Name": "MingYi",
+    "Region": "China",
+    "Industry": "Information, Media & Telecommunications",
+    "Website": "http://www.mingyibook.com/",
+    "Social Media": "http://www.mingyibook.com/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Beijing Mingyi Film and Media Culture Co., Ltd. is located in the core area of Beijing's CBD, with a registered capital of 10 million RMB. The company operates two core divisions: Mingyi Pictures (Film Production and Investment) and Mingyi Publishing (Book Publishing and Distribution).\n\n**Mingyi Pictures (Film Production and Investment)** focuses on the investment, scriptwriting, production, and distribution of films, TV dramas, and documentaries. Notable works include the highly acclaimed documentary *The Fields Will Be Desolate*, exclusively available on iQIYI; the feature film *To Machang*, which was selected for the main competition section of the 17th FIRST Youth Film Festival and won the \"Special Mention\" award. The film was supervised by renowned international director Yang Chao, with Zhou Xiao, General Manager of Mingyi Pictures, serving as producer and investor. Other upcoming projects include *I Don’t Want Three Days of Light*, *Fourteen*, and *Loyalty*.\n\n**Mingyi Publishing (Book Publishing and Distribution)** has over a decade of experience in the publishing industry, collaborating with more than 200 publishers to produce over 500 titles. Its services span writing, planning, editing, design, distribution, copyright trading, and new media operations. Key publications include the million-copy bestseller *I Don’t Want Three Days of Light: The Growth Story of Nimar Wangdu*, which received widespread acclaim with a 9/10 rating on Douban and endorsements from Wang Shi, founder of Vanke, and renowned writer/director Pema Tseden. Another notable work, *Rise and Fall*, an autobiographical novel about gambling addiction by popular Douyin influencer Zhang Yang, sparked strong social resonance, with related topics accumulating 600 million views. Additionally, *The Power of Mission – The Rise of Yanzhao Driving School* features a preface written by Yao Jinbo, President of 58.com, while the film-novel adaptation *Top Agent: Fatal Secrets* achieved both box office success and high book sales.\n\nBeijing Mingyi Film and Media Culture Co., Ltd. is committed to discovering and creating the most valuable literary and cinematic works, aiming to deliver premium content experiences to audiences.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "The data related to film and television works mainly includes high-definition video files, editing and post-production files, scripts, and creative documents.\n\nThe data related to book publishing includes e-book files, typesetting and design files, original manuscripts, and creative documents.\n\nThe focus is primarily on data related to film and television works.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "Data preparation is mainly carried out through official tools, including but not limited to Boost, Lotus, and Singularity.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://www.mingyibook.com/case.php?classID=6\nhttp://www.mingyibook.com/case.php?classID=5",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Sporadic",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Europe, Australia (continent)",
+    "How will you be distributing your data to storage providers": "Shipping hard drives, HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03514812\nf03515708\nf086204\nf03513103\nf03516298\nf03516632\nf03508272\nf03381262\nf060805\nf03514643",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "8PiB",
+    "Single Size Dataset": "810TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "800TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-03-26 06:14:43.199043180 UTC",
+    "Validated By": "pandacrypto",
+    "Active": true,
+    "Updated At": "2025-03-26 06:14:43.199039119 UTC",
+    "Active Request ID": "fd463f0b-a0a4-48fa-9680-7f494057dd4f",
+    "On Chain Address": "f14kydujujvbr3tty2yklj5xlxj55n3o3aknprq3i",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "fd463f0b-a0a4-48fa-9680-7f494057dd4f",
+      "Request Type": "First",
+      "Created At": "2025-03-26 06:12:36.186176654 UTC",
+      "Updated At": "2025-03-26 06:12:36.186178050 UTC",
+      "Active": false,
+      "Allocation Amount": "512 TiB",
+      "Signers": [
+        {
+          "Github Username": "pandacrypto",
+          "Signing Address": "f1xdpvmkm75sinulbz5j73wseupq4equmchxonvjy",
+          "Created At": "2025-03-26 06:14:38.446000000 UTC",
+          "Message CID": "bafy2bzacedq22daeigw4pex4rd6b4r5xuh227suu5jd7lzl3gaxzkfrsjd44e"
+        }
+      ]
+    }
+  ]
+}
