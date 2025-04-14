@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1d35ich4ok7wejqbvczyuvwlwgeiga72e4aueaza",
+  "Issue Number": "59",
+  "Client": {
+    "Name": "ZOTAN",
+    "Region": "China",
+    "Industry": "Arts & Recreation",
+    "Website": "http://zotan.com.cn/",
+    "Social Media": "http://zotan.com.cn/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "ZOTAN is a truly unique place full of creative passion and creativity Our goal is to help you reach your goals. \n\nWe love helping our clients launch new brands, reinvigorate existing ones, introduce products, and solve a myriad of strategic challenges such as brand architecture, category development, environmental branding, employee communication, and more. Regardless of the assignment, we strive to design meaningful and relevant brand experiences at every possible touchpoint—because this is what successful brands do.\n\nOur clients are simply amazing. \n\nOver the years we’ve worked for some of the most exciting companies in the world. Our clients come from diverse industries that include technology, apparel, retail, finance, beverages, and more. Some are large and well known brands, while others are smaller companies at the beginning of their growth. What they have in common is a desire to push boundaries, challenge conventional thinking, explore new models and develop products and services that can change our world.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Photographic works, behind-the-scenes videos and photos, etc.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://zotan.com.cn/cases.php",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Sporadic",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Europe, Australia (continent)",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03516632\nf03508272\nf03381262\nf060805\nf03514643\nf03514812\nf03515708\nf086204\nf03513103\nf03516298",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "10PiB",
+    "Single Size Dataset": "1100TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "1000TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-04-14 13:12:37.464076027 UTC",
+    "Validated By": "pandacrypto",
+    "Active": true,
+    "Updated At": "2025-04-14 13:12:37.464071957 UTC",
+    "Active Request ID": "f0964233-62cb-4817-b815-65825aa47bfb",
+    "On Chain Address": "f1d35ich4ok7wejqbvczyuvwlwgeiga72e4aueaza",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "f0964233-62cb-4817-b815-65825aa47bfb",
+      "Request Type": "First",
+      "Created At": "2025-04-14 13:10:38.847943233 UTC",
+      "Updated At": "2025-04-14 13:10:38.847944251 UTC",
+      "Active": false,
+      "Allocation Amount": "562949953421312 B",
+      "Signers": [
+        {
+          "Github Username": "pandacrypto",
+          "Signing Address": "f1xdpvmkm75sinulbz5j73wseupq4equmchxonvjy",
+          "Created At": "2025-04-14 13:12:30.697000000 UTC",
+          "Message CID": "bafy2bzaceakhj6yix2go523nyuh7ljwozrbe7dyduimgfcbryxvzm2eoqmzj4"
+        }
+      ]
+    }
+  ]
+}
