@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "ID": "f0123",
+  "Issue Number": "4",
+  "Client": {
+    "Name": "EFEF",
+    "Region": "Taiwan",
+    "Industry": "Arts & Recreation",
+    "Website": "www.yhuj.com",
+    "Social Media": "wechat",
+    "Social Media Type": "Slack",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Project Id": "111",
+    "Brief history of your project and organization": "At EF, we believe that when people from different countries and cultures understand each other, the world will become a better place. Since its establishment in 1965, EF has helped millions of people appreciate new landscapes, experience new cultures, and gain new insights about the world and oneself.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Learning courses - focusing on language training, studying abroad, cultural exchange, and academic research",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://pan.baidu.com/s/16ZAGftTX2LukZQxnUqBBBQ?pwd=7zy3",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02828888  | Zhang         | GuangZhou     \r\nf02808888  | guan          | GuangZhou",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "1PiB",
+    "Replicas": 4,
+    "Weekly Allocation": "1000TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-03-26 15:29:27.839648029 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f0123",
+    "Multisig Address": "false"
+  },
+  "Allocation Requests": []
+}
