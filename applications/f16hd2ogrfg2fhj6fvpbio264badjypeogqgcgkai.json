@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f16hd2ogrfg2fhj6fvpbio264badjypeogqgcgkai",
+  "Issue Number": "61",
+  "Client": {
+    "Name": "huawenpicture",
+    "Region": "China",
+    "Industry": "Information, Media & Telecommunications",
+    "Website": "https://www.huawenpicture.com/",
+    "Social Media": "https://www.huawenpicture.com/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Huawen Yingxiang (Beijing) Film Co., Ltd. was established in 2017 and is a company dedicated to film and television project investment and production.\n\nThrough years of dedicated exploration in the film industry, Huawen Yingxiang has successively participated in the investment and production of more than 100 outstanding film and television works. The global cumulative box office of these works has exceeded 70 billion yuan, including numerous films that have achieved both commercial success and critical acclaim. Notable examples include: *The Battle at Lake Changjin*, *The Battle at Lake Changjin II*, *Lost in the Stars*, *Creation of the Gods I*, *This Killer Is Not Bad*, *Hi, Mom*, *The Wandering Earth 2*, *Moonfall*, *Detective Chinatown 3*, *Hot & Cool*, *Pegasus*, *Meg*, and many other excellent domestic and international film and television productions.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Television Movie Video",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.huawenpicture.com/jj",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Sporadic",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Europe, Australia (continent)",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f01882219\nf02192588\nf01879914\nf02131881\nf02121645\nf01946714\nf01819016\nf02216271\nf02058333\nf02368987\nf01046069\nf02093396\nf02259777\nf02234424",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "10PiB",
+    "Single Size Dataset": "1PiB",
+    "Replicas": 10,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-05-18 07:36:06.338962673 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f16hd2ogrfg2fhj6fvpbio264badjypeogqgcgkai",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
